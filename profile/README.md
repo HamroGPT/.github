@@ -1,6 +1,7 @@
 # HamroGPT: Tailored AI Applications for Nepal 🇳🇵
-**[Comming Soon]**
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+**[Comming Soon]**
 
 HamroGPT is a groundbreaking suite of AI-powered applications, meticulously designed and engineered to cater to the distinctive needs of Nepali users. Each application harnesses the power of advanced AI technologies, prominently featuring the state-of-the-art GPT-4 model. This suite of applications empowers natural language understanding and generation in the Nepali language, revolutionizing the way users interact with technology.
 
